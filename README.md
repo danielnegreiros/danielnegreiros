@@ -8,11 +8,10 @@
 
 <br />
 <a href="https://www.linkedin.com/in/daniel-negreiros-64aa4729//">
-  <img align="left" width="35px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
+  <img align="left" width="25px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
 
 
-<br />
 <br />
 <br />
 
