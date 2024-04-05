@@ -8,7 +8,7 @@
 
 <br />
 <a href="https://www.linkedin.com/in/daniel-negreiros-64aa4729/" target="_blank">
-  <img align="left" width="60px" src="imgs/linkedin.svg" style="margin-right: 5px;" />
+  <img align="left" width="60px" src="imgs/linkedin.svg" />
 </a>
 <a href="https://medium.com/@danielnegreirosb" target="_blank">
   <img align="left" width="60px" src="imgs/medium.svg" />
