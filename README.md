@@ -7,12 +7,12 @@
 - 🌱 I’m working at Kyndryl and always giving my best
 
 <br />
-<a href="https://www.linkedin.com/in/daniel-negreiros-64aa4729/" target="_blank">
+<code><a href="https://www.linkedin.com/in/daniel-negreiros-64aa4729/" target="_blank">
   <img align="left" width="60px" src="imgs/linkedin.svg" />
-</a>
-<a href="https://medium.com/@danielnegreirosb" target="_blank">
+</a></code>
+<code><a href="https://medium.com/@danielnegreirosb" target="_blank">
   <img align="left" width="60px" src="imgs/medium.svg" />
-</a>
+</a></code>
 
 
 <br />
