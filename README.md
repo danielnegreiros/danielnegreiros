@@ -1,8 +1,4 @@
-### Hi there 👋
-
-<br />
-
-- 👋 Hi, I’m Daniel.
+### Hi there I’m Daniel 👋
 
 <br />
 <div>
