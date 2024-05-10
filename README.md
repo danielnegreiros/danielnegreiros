@@ -37,6 +37,8 @@
 <code><img height="40" src="imgs/jenkins.svg"></code>
 </p>
 
+
+<br />
 **Stats:**
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=danielnegreiros)](https://github.com/e/github-readme-stats)
