@@ -3,8 +3,6 @@
 <br />
 
 - 👋 Hi, I’m Daniel, @danielnegreiros
-- 👀 I’m passionate about helping people and companies make their lives better using the best technologies available.
-- 🌱 I’m working at Kyndryl and always giving my best
 
 <br />
 <div>
