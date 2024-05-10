@@ -20,7 +20,7 @@
 <br />
 <br />
 
-**languages and tools:**
+**Favorite languages and tools:**
 
 <p align="left">
 <code><img height="40" src="imgs/linux.svg"></code>
@@ -36,3 +36,7 @@
 <code><img height="40" src="imgs/docker.svg"></code>
 <code><img height="40" src="imgs/jenkins.svg"></code>
 </p>
+
+**Stats:**
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=danielnegreiros)](https://github.com/e/github-readme-stats)
