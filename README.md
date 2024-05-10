@@ -2,7 +2,7 @@
 
 <br />
 
-- 👋 Hi, I’m Daniel, @danielnegreiros
+- 👋 Hi, I’m Daniel.
 
 <br />
 <div>
