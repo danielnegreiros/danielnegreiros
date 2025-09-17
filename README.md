@@ -28,6 +28,7 @@ It also provisions **random secrets** for Kubernetes Pods.
 <p align="left">
   <code><img height="40" src="imgs/go.svg" alt="Go" /></code>
   <code><img height="40" src="imgs/docker.svg" alt="Docker" /></code>
+  <code><img height="40" src="imgs/actions.png" alt="GittHub Action" /></code>
   <code><img height="40" src="imgs/vault.svg" alt="HashiCorp Vault" /></code>
   <code><img height="40" src="imgs/kubernetes.svg" alt="Kubernetes" /></code>
 </p>
