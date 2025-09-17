@@ -22,8 +22,10 @@ A hands-on collection of challenges and guides for building cloud-native feature
 ---
 
 #### 🔐 [**Vault Local Auto Unlocker**](https://github.com/danielnegreiros/vault-local-auto-unlocker)  
-A lightweight **Go tool** to automate Vault auto-unsealing locally (mostly for dev environments) using GitHub Actions & Docker.  
-It also provisions **random secrets** for Kubernetes Pods.
+A lightweight **Go tool** to automate Vault auto-unsealing locally (mostly for dev environments), it also provisions **random secrets**, and bootrap desired secret engine mounts, policies, approles and others.
+
+for Kubernetes Pods. using GitHub Actions & Docker for publishing and building.  
+
 
 <p align="left">
   <code><img height="40" src="imgs/go.svg" alt="Go" /></code>
