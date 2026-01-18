@@ -8,7 +8,7 @@ I have tons of fun working with **Kubernetes, cloud-native tools, automation, an
 ### 🌟 Featured Projects
 
 #### 🚀 [**DevOps Quests**](https://github.com/danielnegreiros/devops-quests)  
-A hands-on collection of challenges and guides for building cloud-native features as a plug-and-play platform.
+Real-world DevOps challenges and reference implementations using Kubernetes, GitOps, observability stacks, Vault, auto-TLS, security scanners, Helm, Terraform and IaC.
 
 <p align="left">
   <code><img height="40" src="imgs/kubernetes.svg" alt="Kubernetes" /></code>
