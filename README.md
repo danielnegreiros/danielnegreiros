@@ -21,18 +21,19 @@ A hands-on collection of challenges and guides for building cloud-native feature
 
 ---
 
-#### 🔐 [**Vault Local Auto Unlocker**](https://github.com/danielnegreiros/vault-local-auto-unlocker)  
-A lightweight **Go tool** to automate Vault auto-unsealing locally (mostly for dev environments), it also provisions **random secrets**, and bootrap desired secret engine mounts, policies, approles and others.
+#### 🔐 [**Vault Operator**](https://github.com/danielnegreirosb/vault-operator)  
 
-It uses Docker forbuilding and GitHub Actions for publishing  
+ Kubernetes operator for managing HashiCorp Vault infrastructure and resources declaratively using Custom Resource Definitions (CRDs). Vault Operator bridges the gap between Vault's powerful secret management capabilities and Kubernetes' declarative paradigm, enabling teams to manage their entire Vault configuration as code 
+
+It uses Docker for building and GitHub Actions for publishing  
 
 
 <p align="left">
   <code><img height="40" src="imgs/go.svg" alt="Go" /></code>
-  <code><img height="40" src="imgs/docker.svg" alt="Docker" /></code>
-  <code><img height="40" src="imgs/actions.png" alt="GittHub Action" /></code>
-  <code><img height="40" src="imgs/vault.svg" alt="HashiCorp Vault" /></code>
   <code><img height="40" src="imgs/kubernetes.svg" alt="Kubernetes" /></code>
+  <code><img height="40" src="imgs/vault.svg" alt="HashiCorp Vault" /></code>
+  <code><img height="40" src="imgs/actions.png" alt="GittHub Action" /></code>
+  <code><img height="40" src="imgs/docker.svg" alt="Docker" /></code>
 </p>
 
 ---
